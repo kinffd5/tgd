@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    max-width: 66%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    
+}
+
+.conte{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.conf{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.ty{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
